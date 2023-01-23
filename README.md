@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JMarcellino
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me j.marcellino1998@gmail.com
 
 <!---
 JMarcellino/JMarcellino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
